@@ -36,4 +36,4 @@ export class ServerStatusComponent implements OnInit {
 //   ngOnDestroy() {
 //     clearTimeout(this.interval);
 //   }
-// }
+}
